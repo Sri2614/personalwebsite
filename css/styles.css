@@ -97,6 +97,11 @@ hr{
   right: 300px;
 }
 
+.mountain{
+  width: 400px;
+ }
+
+
 .bottom-cloud{
   position: absolute;
   left: 250px;
